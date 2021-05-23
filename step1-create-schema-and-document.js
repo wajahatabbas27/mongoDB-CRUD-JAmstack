@@ -25,8 +25,8 @@ dotenv.config();
 
         //create an instance of model "student" , jo model ka bnaya hai hmne usko call krrhe hain yhn pe ;
         const student1 = new student({
-            name: "wajahat",
-            age: 23
+            name: "Abiha Zaidi",
+            age: 19
         });
 
         //save the new model instance-student1 to db - mongodb 
