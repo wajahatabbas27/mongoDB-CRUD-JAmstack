@@ -53,3 +53,10 @@ dotenv.config();
         console.log(error);
     }
 })();
+
+
+
+//3 techniques hain relate krne ki,
+//1- phli courses define krdeinge schema mein
+//2-find kreinge id se phr populate krdeinge courses 
+//3- id call krke push krdeinge 
